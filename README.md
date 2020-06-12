@@ -15,4 +15,6 @@ Below are some specific technical topics that this presentation will demonstrate
 - The use of Round Robin DNS to distribute web traffic globally
 - Zero-touch infrastructure management using Git, Jenkins, and the Python plugin for Jenkins.
 
+https://www.youtube.com/watch?v=P-2ev6vN67I
+
 #
